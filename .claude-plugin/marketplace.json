@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "molayab",
+  "description": "Mateo Olaya Bernal's Claude Code plugins.",
+  "owner": {
+    "name": "Mateo Olaya Bernal"
+  },
+  "plugins": [
+    {
+      "name": "web-agentic-pipeline",
+      "description": "Design → human gate → code → SEO review → human gate → security review → human gate → publish pipeline for static/Astro sites.",
+      "author": {
+        "name": "Mateo Olaya Bernal"
+      },
+      "category": "development",
+      "source": "./plugins/web-agentic-pipeline"
+    }
+  ]
+}

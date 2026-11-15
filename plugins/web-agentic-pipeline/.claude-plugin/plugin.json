@@ -1,0 +1,8 @@
+{
+  "name": "web-agentic-pipeline",
+  "description": "Design → human gate → code → SEO review → human gate → security review → human gate → publish pipeline for static/Astro sites. Site-specific facts live in each repo's AGENTS.md (Pipeline profile).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mateo Olaya Bernal"
+  }
+}
